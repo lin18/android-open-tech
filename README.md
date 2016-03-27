@@ -36,7 +36,7 @@
 <br>***Data Binding***
 <br>[MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
 <br>[RoboBinding](https://github.com/RoboBinding/RoboBinding)
-<br>MVVP模感觉不是很好，好像用的不多，MVP方式使用起来也很蛋疼
+<br>MVVP模式感觉不是很好，好像用的不多，另外MVP方式使用起来也很蛋疼
 <br>
 <br>***RxJava***
 <br>[给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
