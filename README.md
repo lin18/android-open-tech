@@ -31,7 +31,7 @@
 <br>***进程常驻***
 <br>[Android 进程常驻（0）----MarsDaemon使用说明](http://blog.csdn.net/marswin89/article/details/50917098)
 <br>[MarsDaemon](https://github.com/Marswin/MarsDaemon)
-<br之前有一段时候是蜻蜓FM还是哪个FM所使用的方法，有时间研究下
+<br>之前有一段时候是蜻蜓FM还是哪个FM所使用的方法，有时间研究下
 <br>
 <br>***Data Binding***
 <br>[MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
