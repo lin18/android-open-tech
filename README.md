@@ -7,7 +7,7 @@
 <br>[Nuwa](https://github.com/jasonross/Nuwa)
 <br>[dexposed](https://github.com/alibaba/dexposed)
 <br>[AndFix](https://github.com/alibaba/AndFix)
-<br>一开始用Nuwa，没混淆没有问题，混淆后出生成相应文件。后来使用AndFix接项成功
+<br>一开始用Nuwa，没混淆没有问题，混淆后没生成相应文件。后来使用AndFix接入项目成功
 <br>
 <br>***数据库 orm***
 <br>[ActiveAndroid](https://github.com/pardom/ActiveAndroid)
