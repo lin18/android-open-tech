@@ -1,5 +1,5 @@
 # android-open-tech
-另一个号星标的项目太多了，往2000上升，重新开一个记录收集一些重要技术
+另一个号星标的项目太多了，朝2000进发，重新开一个记录收集一些重要技术
 <br>
 <br>
 <br>***热补丁***
@@ -51,7 +51,7 @@
 <br>[leakcanary](https://github.com/square/leakcanary)
 <br>[BlockCanary](https://github.com/square/leakcanary)
 <br>
-<br>***svg代替Drawable***
+<br>***svg代替png***
 <br>[Android微信上的SVG](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207863967&idx=1&sn=3d7b07d528f38e9f812e8df7df1e3322&scene=4&pass_ticket=ju78kdKHlS54rmyCsnYl0I90BsvhusA0qHyryj5uT9UqgjMG405GEwx1rT%2B0O6kF)
 <br>[Vector Drawable](http://developer.android.com/tools/help/vector-asset-studio.html)
 <br>[android-support-library](http://android-developers.blogspot.sg/2016/02/android-support-library-232.html)
